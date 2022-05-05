@@ -30,4 +30,4 @@ class UserService
     {
         return User::delete($id);
     }
-    }
+}
